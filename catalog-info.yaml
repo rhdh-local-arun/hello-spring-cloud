@@ -7,7 +7,7 @@ metadata:
   annotations:
     tektonci/build-namespace: hello-spring-cloud-dev
     janus-idp.io/tekton: hello-spring-cloud
-    argocd/app-name: -dev
+    argocd/app-selector: rht-gitops.com/janus-argocd=hello-spring-cloud-bootstrap
     backstage.io/kubernetes-id: hello-spring-cloud
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: rhdh-local-arun/hello-spring-cloud
