@@ -11,7 +11,7 @@ metadata:
     backstage.io/kubernetes-id: hello-spring-cloud
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: rhdh-local-arun/hello-spring-cloud
-    quay.io/repository-slug: anattama/
+    quay.io/repository-slug: anattama/hello-spring-cloud
   links:
     - url: https://devspaces.apps.cluster-q82c9.q82c9.sandbox3038.opentlc.com/#https://github.com/rhdh-local-arun/hello-spring-cloud
       title: OpenShift Dev Spaces (VS Code editor)
