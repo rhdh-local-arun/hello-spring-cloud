@@ -6,4 +6,4 @@ More information on the chosen CI method can be found [here](https://github.com/
 
 Test CI/CD with tekton pipelines 
 
-Trigger Tekton pipeline
+Trigger Tekton pipeline 
